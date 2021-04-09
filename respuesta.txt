@@ -1,0 +1,4 @@
+1. - clientes
+   - empleados
+   - proveedore
+   - empresa
