@@ -2,3 +2,4 @@
    - empleados
    - proveedore
    - empresa
+2. entrada, proceso y salida
