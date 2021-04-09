@@ -8,3 +8,7 @@
    aspectos básicos del sistema.estos son algunos 
    ejemplos de  Los sistemas operativos
    son Windows, Linux.
+
+4. corriente de entrada -> proceso de transformacion -> corriente de salida
+   hay una retroalimentacion que va de corriente de salida
+   a corriente de entrada.
