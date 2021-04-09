@@ -3,3 +3,8 @@
    - proveedore
    - empresa
 2. entrada, proceso y salida
+
+3. Se trata de programas que permiten y regulan los 
+   aspectos básicos del sistema.estos son algunos 
+   ejemplos de  Los sistemas operativos
+   son Windows, Linux.
